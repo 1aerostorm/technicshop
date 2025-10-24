@@ -17,3 +17,18 @@ VALUES ('однокамерные', 3);
 
 INSERT INTO `Category` (`title`, `parent_id`)
 VALUES ('двухкамерные', 3);
+
+INSERT INTO `Category` (`title`, `parent_id`)
+VALUES ('Компьютеры', 0);
+
+INSERT INTO `Category` (`title`, `parent_id`)
+VALUES ('Ноутбуки', 7);
+
+INSERT INTO `Category` (`title`, `parent_id`)
+VALUES ('17"', 8);
+
+INSERT INTO `Category` (`title`, `parent_id`)
+VALUES ('19"', 8);
+
+INSERT INTO `Category` (`title`, `parent_id`)
+VALUES ('Моноблоки', 7);
